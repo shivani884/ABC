@@ -12,7 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        NSLog("Edit by nishit")
+        NSLog("dit by nishit")
+
         // Do any additional setup after loading the view.
     }
 

@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        NSLog("dit by nishit")
+        print("Hello Swift Nishit")
 
         // Do any additional setup after loading the view.
     }
